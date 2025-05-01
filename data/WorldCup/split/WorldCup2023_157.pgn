@@ -1,0 +1,25 @@
+[Event "FIDE World Cup 2023"]
+[Site "Baku AZE"]
+[Date "2023.08.01"]
+[Round "1.3"]
+[White "Sanchez Alvarez,R"]
+[Black "Safarli,E"]
+[Result "0-1"]
+[WhiteTitle "IM"]
+[BlackTitle "GM"]
+[WhiteElo "2444"]
+[BlackElo "2607"]
+[ECO "E46"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O"]
+[WhiteFideId "3508684"]
+[BlackFideId "13402129"]
+[EventDate "2023.07.30"]
+[EventType "k.o."]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd2 c5 6. a3 Bxc3 7. Bxc3 Ne4 8. Ne2
+b6 9. d5 Ba6 10. b3 b5 11. Qc2 exd5 12. cxd5 Nxc3 13. Nxc3 b4 14. axb4 Bxf1 15.
+Kxf1 cxb4 16. Ne2 a5 17. Nd4 Na6 18. g3 Rc8 19. Qf5 Rc3 20. Kg2 Nc5 21. Rab1 g6
+22. Qf3 Re8 23. h4 h5 24. Rhc1 Ne4 25. Rxc3 Nxc3 26. Ra1 Qb6 27. d6 a4 28. bxa4
+b3 29. Qf6 Ne4 30. Qf4 Qb4 31. Rb1 Nd2 32. Rb2 Qc3 33. Rxd2 Qxd2 34. Kh2 b2 35.
+Nf5 b1=Q 36. Ne7+ Kg7 37. Kg2 Qdd1 0-1

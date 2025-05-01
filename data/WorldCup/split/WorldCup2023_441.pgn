@@ -1,0 +1,21 @@
+[Event "FIDE World Cup 2023"]
+[Site "Baku AZE"]
+[Date "2023.08.04"]
+[Round "2.8"]
+[White "Ponomariov,R"]
+[Black "Kollars,Dmitrij"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2664"]
+[BlackElo "2618"]
+[ECO "E18"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 7.Nc3"]
+[WhiteFideId "14103320"]
+[BlackFideId "12909572"]
+[EventDate "2023.07.30"]
+[EventType "k.o."]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8. Qc2
+f5 9. Ne5 d5 10. Nd3 Nd7 11. Nf4 Rf6 12. cxd5 Nxc3 13. Qxc3 Nf8 14. d6 1-0

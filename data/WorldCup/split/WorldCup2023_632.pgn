@@ -1,0 +1,26 @@
+[Event "FIDE World Cup 2023"]
+[Site "Baku AZE"]
+[Date "2023.08.13"]
+[Round "5.2"]
+[White "Ivanchuk,V"]
+[Black "Carlsen,M"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2667"]
+[BlackElo "2835"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, anti-Marshall 8.a4"]
+[WhiteFideId "14100010"]
+[BlackFideId "1503014"]
+[EventDate "2023.07.30"]
+[EventType "k.o."]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
+Rb8 9. axb5 axb5 10. c3 d6 11. d4 exd4 12. cxd4 d5 13. e5 Ne4 14. Nc3 Nxc3 15.
+bxc3 Bf5 16. h3 Qd7 17. Be3 Nd8 18. Nd2 b4 19. c4 dxc4 20. Bxc4 c6 21. Qa4 Rb7
+22. Nf1 Ne6 23. Ng3 Bg6 24. Red1 Nc7 25. Qb3 Nd5 26. Ra5 Ra7 27. Rda1 Rfa8 28.
+Rxa7 Rxa7 29. Rxa7 Qxa7 30. Ne2 Qa3 31. Bc1 Qxb3 32. Bxb3 Bd3 33. Nf4 Nxf4 34.
+Bxf4 c5 35. dxc5 Bxc5 36. e6 Kf8 37. exf7 Bg6 38. Kf1 Bxf7 39. Bxf7 Kxf7 40. Ke2
+Bd4 41. Kd3 Bxf2 42. Bd2 Bc5 43. Kc4 Bf8 0-1

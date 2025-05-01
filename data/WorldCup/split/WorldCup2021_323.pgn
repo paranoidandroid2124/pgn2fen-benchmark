@@ -1,0 +1,24 @@
+[Event "FIDE World Cup 2021"]
+[Site "Krasnaya Polyana RUS"]
+[Date "2021.07.17"]
+[Round "2.3"]
+[White "Dubov,Daniil"]
+[Black "Gukesh,D"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2714"]
+[BlackElo "2578"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[WhiteFideId "24126055"]
+[BlackFideId "46616543"]
+[EventDate "2021.07.12"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Qc2 a6 8. a4
+Bd7 9. Qxc4 Bc6 10. Bg5 Nbd7 11. Nc3 a5 12. Rfd1 h6 13. Bxf6 Nxf6 14. Ne5 Bxg2
+15. Kxg2 c6 16. e3 Bd6 17. Qe2 Qe7 18. Nc4 e5 19. d5 Bb4 20. e4 Qc5 21. Rac1
+Bxc3 22. Rxc3 cxd5 23. Nxe5 Qb4 24. exd5 Qxa4 25. d6 Rad8 26. d7 Nxd7 27. b3 Qb4
+28. Rcd3 Qb5 29. Qb2 Nxe5 30. Rxd8 Qc6+ 31. R8d5 Ng4 32. Qc1 Qe6 33. Qc2 g6 34.
+h3 Nf6 35. Rxa5 Rc8 36. Rc5 Re8 37. Qc4 Qb6 38. Qb5 Qa7 39. Rc7 1-0

@@ -1,0 +1,32 @@
+[Event "FIDE World Cup 2021"]
+[Site "Krasnaya Polyana RUS"]
+[Date "2021.07.12"]
+[Round "1.1"]
+[White "Can,E"]
+[Black "Lima,Da"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2569"]
+[BlackElo "2526"]
+[ECO "D97"]
+[Opening "Gruenfeld"]
+[Variation "Russian, Alekhine (Hungarian) variation"]
+[WhiteFideId "6302181"]
+[BlackFideId "2100045"]
+[EventDate "2021.07.12"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 a6 8. e5
+b5 9. Qb3 Nfd7 10. e6 fxe6 11. Be3 Nf6 12. Be2 Nc6 13. O-O Qe8 14. Rac1 Kh8 15.
+Rfd1 Ng4 16. Ne4 Nxe3 17. fxe3 Ra7 18. Nfg5 Nd8 19. Bg4 Bh6 20. Re1 Bb7 21. Bxe6
+Nxe6 22. Qxe6 Rf5 23. Rxc7 Bxg5 24. Nd6 Qb8 25. Nxf5 Qxc7 26. Qf7 Bxe3+ 27. Nxe3
+Ra8 28. Ng4 Qc2 29. Qf2 Qxf2+ 30. Kxf2 Rf8+ 31. Kg3 Bd5 32. Rxe7 Bxa2 33. Ra7
+Bc4 34. Rxa6 Rd8 35. Ra7 Rd6 36. Kf3 Rxd4 37. Nf6 Rh4 38. h3 g5 39. Kg3 Rh6 40.
+Ne4 Rg6 41. Rb7 Bd5 42. Rb8+ Kg7 43. Nc3 Bc4 44. Nxb5 h5 45. Nd4 Rf6 46. Nf3 h4+
+47. Kf2 g4 48. hxg4 h3 49. Rd8 h2 50. Rd1 Rb6 51. Nxh2 Rxb2+ 52. Kg3 Be6 53. Rd6
+Kf7 54. Rd4 Bc8 55. Nf3 Bb7 56. Rd7+ Kf6 57. Rd6+ Ke7 58. Rh6 Kf8 59. Rh7 Be4
+60. Rd7 Bc6 61. Rc7 Bd5 62. Nh4 Kg8 63. g5 Be4 64. Kh3 Rb4 65. g3 Bd3 66. Rd7
+Bf1+ 67. Kh2 Rb2+ 68. Kg1 Bh3 69. Rc7 Ra2 70. Rc4 Ra5 71. Kh2 Be6 72. Rc6 Ra2+
+73. Kg1 Bh3 74. Rg6+ Kf7 75. Rh6 Kg8 76. Rf6 Ra5 77. Kh2 Bg4 78. g6 Ra2+ 79. Kg1
+Rb2 80. Rf4 Be6 81. Re4 Bd7 82. Rd4 Be6 83. Re4 Bd7 84. g4 Rb5 85. Kf2 Rd5 86.
+Kg3 Kg7 87. Re7+ Kg8 88. Nf3 Rd3 89. Kf4 Kf8 90. Rf7+ Kg8 91. Ne5 1-0

@@ -1,0 +1,24 @@
+[Event "FIDE World Cup 2021"]
+[Site "Krasnaya Polyana RUS"]
+[Date "2021.07.13"]
+[Round "1.2"]
+[White "Draskovic,L"]
+[Black "Indjic,A"]
+[Result "0-1"]
+[WhiteTitle "IM"]
+[BlackTitle "GM"]
+[WhiteElo "2472"]
+[BlackElo "2607"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Qb6"]
+[WhiteFideId "944335"]
+[BlackFideId "911925"]
+[EventDate "2021.07.12"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd3
+Qxb2 9. Rb1 Qa3 10. f5 Be7 11. fxe6 Bxe6 12. Nxe6 fxe6 13. Rxb7 Nbd7 14. e5 dxe5
+15. Be2 O-O 16. Qc4 Kh8 17. Rb3 Qd6 18. O-O Rac8 19. Qd3 Qxd3 20. cxd3 Bc5+ 21.
+Kh1 Bd4 22. Bd2 h6 23. h3 Rc7 24. Ne4 Rc2 25. Bb4 Nxe4 26. dxe4 Rxf1+ 27. Bxf1
+Rxa2 28. Rb1 Nb6 29. Bd6 a5 30. Kh2 a4 31. Bc7 Nd7 32. Bd6 a3 33. Rb7 Rxg2+ 34.
+Kxg2 a2 35. Rxd7 a1=Q 36. Bf8 Qb2+ 37. Kh1 Qf2 38. Bxg7+ Kg8 0-1

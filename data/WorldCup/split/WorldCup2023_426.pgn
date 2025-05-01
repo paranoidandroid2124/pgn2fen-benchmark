@@ -1,0 +1,23 @@
+[Event "FIDE World Cup 2023"]
+[Site "Baku AZE"]
+[Date "2023.08.04"]
+[Round "2.6"]
+[White "Navara,D"]
+[Black "Huschenbeth,N"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2689"]
+[BlackElo "2603"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[WhiteFideId "309095"]
+[BlackFideId "24604747"]
+[EventDate "2023.07.30"]
+[EventType "k.o."]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. O-O a6 5. Bd3 Ngf6 6. c3 b5 7. a4 c4 8. Bc2
+Bb7 9. axb5 axb5 10. Rxa8 Qxa8 11. Na3 Bxe4 12. Bxe4 Nxe4 13. d3 cxd3 14. Nxb5
+Qb7 15. Qxd3 e6 16. Be3 d5 17. Ra1 Bd6 18. Ng5 Bb8 19. Nxe4 dxe4 20. Nd6+ Ke7
+21. Nxe4 Qxb2 22. Rd1 Qb7 23. Bc1 Qc6 24. Ba3+ Ke8 25. Nc5 Qd5 26. Nxd7 1-0

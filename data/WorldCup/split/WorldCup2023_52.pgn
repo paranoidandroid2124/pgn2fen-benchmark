@@ -1,0 +1,24 @@
+[Event "FIDE World Cup 2023"]
+[Site "Baku AZE"]
+[Date "2023.07.30"]
+[Round "1.1"]
+[White "Gurel,Ediz"]
+[Black "Ivic,Velimir"]
+[Result "1-0"]
+[WhiteTitle "IM"]
+[BlackTitle "GM"]
+[WhiteElo "2500"]
+[BlackElo "2590"]
+[ECO "C83"]
+[Opening "Ruy Lopez"]
+[Variation "open, 9...Be7, 10.Re1"]
+[WhiteFideId "44507356"]
+[BlackFideId "950122"]
+[EventDate "2023.07.30"]
+[EventType "k.o."]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 Be7 7. Re1 b5 8. Bb3
+d5 9. dxe5 Be6 10. c3 O-O 11. Nbd2 Nc5 12. Nd4 Nxd4 13. cxd4 Nd3 14. Re3 Nxc1
+15. Rxc1 a5 16. Rec3 a4 17. Bc2 a3 18. bxa3 Bxa3 19. Rb1 c5 20. dxc5 d4 21. Rg3
+Bxc5 22. Bxh7+ Kxh7 23. Qh5+ Kg8 24. Qh6 g6 25. Ne4 Be7 26. Rf3 Bf5 27. Rxf5 Ra6
+28. Rf3 1-0

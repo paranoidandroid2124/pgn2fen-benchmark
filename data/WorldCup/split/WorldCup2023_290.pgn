@@ -1,0 +1,24 @@
+[Event "FIDE World Cup 2023"]
+[Site "Baku AZE"]
+[Date "2023.08.03"]
+[Round "2.2"]
+[White "Carlsen,M"]
+[Black "Pantsulaia,L"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2835"]
+[BlackElo "2564"]
+[ECO "A30"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[WhiteFideId "1503014"]
+[BlackFideId "13602071"]
+[EventDate "2023.07.30"]
+[EventType "k.o."]
+
+1. c4 c5 2. Nf3 g6 3. d4 Bg7 4. d5 d6 5. e4 e6 6. h3 Ne7 7. Nc3 h6 8. dxe6 Bxe6
+9. Bf4 Nbc6 10. Qxd6 Qa5 11. Qd2 Nb4 12. a3 g5 13. Bh2 Rd8 14. Qc1 Nd3+ 15. Bxd3
+Rxd3 16. O-O Bxc4 17. Nd5 Bxd5 18. exd5 Rxd5 19. Re1 Qd8 20. Qc4 Kf8 21. Ne5 Nc6
+22. Rad1 Nd4 23. Kh1 b5 24. Qd3 h5 25. Nc6 Qb6 26. Ne7 Rd8 27. Nf5 Qg6 28. Bc7
+Rd7 29. Re8+ 1-0

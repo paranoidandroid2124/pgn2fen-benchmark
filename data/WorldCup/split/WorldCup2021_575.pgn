@@ -1,0 +1,26 @@
+[Event "FIDE World Cup 2021"]
+[Site "Krasnaya Polyana RUS"]
+[Date "2021.07.30"]
+[Round "6.4"]
+[White "Karjakin,Sergey"]
+[Black "Shankland,S"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2757"]
+[BlackElo "2709"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Adams attack"]
+[WhiteFideId "14109603"]
+[BlackFideId "2004887"]
+[EventDate "2021.07.12"]
+[EventType "k.o."]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 Nc6 7. g4 g6 8. Be3
+Nxd4 9. Qxd4 Bg7 10. O-O-O Be6 11. f4 Qa5 12. f5 Bxa2 13. Bd2 O-O 14. Nd5 Nxd5
+15. Bxa5 Bxd4 16. Rxd4 Ne3 17. Kd2 Nxf1+ 18. Rxf1 Rfc8 19. b3 Rc6 20. Ra1 Bxb3
+21. cxb3 Rac8 22. Ke3 Rc2 23. f6 exf6 24. Rxd6 Rh2 25. Rxf6 Rxh3+ 26. Rf3 Rh2
+27. Rd1 Rb2 28. Rd3 h6 29. Kf4 g5+ 30. Kf5 Re2 31. Bd8 Kh7 32. Bf6 b5 33. Rd7
+Kg8 34. b4 Ra2 35. Rd8+ Rxd8 36. Bxd8 Rd2 37. Bf6 Kf8 38. Rc3 Rf2+ 39. Ke5 Ke8
+40. Rd3 1-0

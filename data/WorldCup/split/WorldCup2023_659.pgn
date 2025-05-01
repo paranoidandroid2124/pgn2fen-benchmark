@@ -1,0 +1,26 @@
+[Event "FIDE World Cup 2023"]
+[Site "Baku AZE"]
+[Date "2023.08.19"]
+[Round "7.1"]
+[White "Carlsen,M"]
+[Black "Abasov,N"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2835"]
+[BlackElo "2632"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[WhiteFideId "1503014"]
+[BlackFideId "13402960"]
+[EventDate "2023.07.30"]
+[EventType "k.o."]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. Bxc6 bxc6 5. b3 d6 6. e5 dxe5 7. d3 f6 8. Nbd2
+Nh6 9. Rg1 Ba6 10. g4 Nf7 11. Qe2 Be7 12. Bb2 Qa5 13. c4 g5 14. h4 h6 15. Rh1
+O-O-O 16. O-O-O Qc7 17. Ne4 gxh4 18. Nxh4 Rhg8 19. f4 exf4 20. Nxf6 Bxf6 21.
+Qxe6+ Kb8 22. Qxf6 Bc8 23. Rde1 Rd6 24. Qxf4 Rxg4 25. Qe3 Re6 26. Qd2 Ne5 27.
+Kc2 Kb7 28. Re3 Qe7 29. Nf5 Qg5 30. Bxe5 Rg2 31. Re2 Rxe2 32. Qxe2 Qxf5 33. Rh5
+Qf7 34. Qh2 Rg6 35. Bf4 Rf6 36. Be3 Bf5 37. Bxc5 Qg6 38. Kc3 Re6 39. Rh4 Bg4 40.
+Bxa7 Qf6+ 41. Kb4 Re5 42. d4 Qe7+ 43. c5 1-0

@@ -1,0 +1,24 @@
+[Event "FIDE World Cup 2023"]
+[Site "Baku AZE"]
+[Date "2023.07.30"]
+[Round "1.1"]
+[White "Predke,A"]
+[Black "Balogun,Oluwafemi Daniel"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "IM"]
+[WhiteElo "2651"]
+[BlackElo "2235"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[WhiteFideId "24107581"]
+[BlackFideId "8501246"]
+[EventDate "2023.07.30"]
+[EventType "k.o."]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 Nf6 6. e5 Nd5 7. Nc3 Nc7 8. Bxc6
+dxc6 9. h3 Ne6 10. d3 O-O 11. a4 a5 12. Be3 h6 13. Ne4 b6 14. Ng3 Nd4 15. Bd2
+Ra7 16. Re4 Rd7 17. Bc3 Rd5 18. Bxd4 cxd4 19. Qd2 Be6 20. Rae1 Qd7 21. Rh4 c5
+22. b3 Ra8 23. Rxh6 b5 24. axb5 Qxb5 25. Re4 Qb8 26. Reh4 Rxe5 27. Rh7 Qf8 28.
+Nxe5 Bxe5 29. Qg5 Bg7 30. Nh5 1-0

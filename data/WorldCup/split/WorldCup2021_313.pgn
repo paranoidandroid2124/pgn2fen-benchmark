@@ -1,0 +1,23 @@
+[Event "FIDE World Cup 2021"]
+[Site "Krasnaya Polyana RUS"]
+[Date "2021.07.16"]
+[Round "2.2"]
+[White "Pichot,A"]
+[Black "Saric,Iv"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2630"]
+[BlackElo "2653"]
+[ECO "B94"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.Bg5"]
+[WhiteFideId "110973"]
+[BlackFideId "14508150"]
+[EventDate "2021.07.12"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. Qe2 e6 8. f4
+Qc7 9. O-O-O b5 10. a3 Bb7 11. g4 Be7 12. Kb1 h6 13. Bh4 g5 14. fxg5 Nh7 15. Bg3
+hxg5 16. h4 Nhf8 17. Bg2 gxh4 18. Nf5 exf5 19. exf5 Ne5 20. Bxe5 dxe5 21. Bxb7
+Qxb7 22. Qxe5 f6 23. Qe3 Kf7 24. Rhe1 Rh7 25. Nd5 Bd8 26. g5 fxg5 27. f6 Bxf6
+28. Rf1 Kg7 29. Nxf6 Rh6 30. Ne8+ Kg8 31. Qxg5+ 1-0

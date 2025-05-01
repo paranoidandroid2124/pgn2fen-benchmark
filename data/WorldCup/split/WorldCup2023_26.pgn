@@ -1,0 +1,32 @@
+[Event "FIDE World Cup 2023"]
+[Site "Baku AZE"]
+[Date "2023.07.30"]
+[Round "1.1"]
+[White "Leiva,G"]
+[Black "Demchenko,A"]
+[Result "1-0"]
+[WhiteTitle "IM"]
+[BlackTitle "GM"]
+[WhiteElo "2374"]
+[BlackElo "2623"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[WhiteFideId "3804399"]
+[BlackFideId "4160258"]
+[EventDate "2023.07.30"]
+[EventType "k.o."]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. a4 Nf6 5. Nc3 a6 6. Be2 g6 7. O-O Bg7 8. a5 b5
+9. axb6 Bb7 10. d3 a5 11. Ra2 O-O 12. Qd2 Nxb6 13. Qf4 Nfd7 14. Qh4 e6 15. Qh3
+e5 16. Bh6 Bxh6 17. Qxh6 f6 18. Rfa1 Nb8 19. Rxa5 Rxa5 20. Rxa5 Nc6 21. Ra1 Qd7
+22. Nd1 d5 23. Ne3 Nd4 24. Nxd4 cxd4 25. Nxd5 Nxd5 26. exd5 Bxd5 27. c4 dxc3 28.
+bxc3 Qb7 29. Bf1 Rc8 30. Qd2 Qb3 31. Rc1 Qa3 32. g3 Qc5 33. h4 Kg7 34. Qe3 Qc6
+35. d4 exd4 36. Qxd4 Bf7 37. Bg2 Qe6 38. Bf3 Rc4 39. Qd2 Rc7 40. Re1 Qc4 41. Re3
+Ra7 42. Rd3 Qb5 43. Kg2 Qc5 44. Rd7 Rxd7 45. Qxd7 h5 46. Qb7 Qc4 47. Qb4 Qc7 48.
+Qd4 Bc4 49. Kg1 Be6 50. Be2 Bc8 51. Bf1 Be6 52. c4 Qc6 53. Qa7+ Kh6 54. Qb8 Kg7
+55. Qb4 Kf7 56. c5 Qd5 57. Bg2 Qd1+ 58. Kh2 g5 59. Qe4 gxh4 60. gxh4 Qc1 61. c6
+Qc5 62. Kg3 Ke7 63. Bf3 Kf7 64. Qh7+ Kf8 65. Qxh5 Qd6+ 66. Kg2 Kg7 67. Qe8 Qe5
+68. Qe7+ Kg6 69. Qb4 f5 70. Qe7 f4 71. Qe8+ Kg7 72. Qe7+ Kg6 73. c7 Qf5 74. Qg5+
+Qxg5+ 75. hxg5 Bc8 76. Kh2 Kxg5 77. Bg2 Kh4 78. Bf1 f3 79. Bc4 Kg4 80. Bb5 Kh4
+81. Bf1 Bd7 82. Ba6 1-0

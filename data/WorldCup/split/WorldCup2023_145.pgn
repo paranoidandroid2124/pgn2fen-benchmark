@@ -1,0 +1,26 @@
+[Event "FIDE World Cup 2023"]
+[Site "Baku AZE"]
+[Date "2023.07.31"]
+[Round "1.2"]
+[White "Erdos,V"]
+[Black "Nasuta,G"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2571"]
+[BlackElo "2552"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf"]
+[WhiteFideId "719978"]
+[BlackFideId "1141686"]
+[EventDate "2023.07.30"]
+[EventType "k.o."]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bd3 g6 7. f3 Qb6 8. a3
+Nc6 9. Be3 e5 10. Nf5 Qd8 11. Ng3 Be6 12. Qd2 h5 13. O-O-O Rc8 14. Kb1 Bg7 15.
+Rhe1 O-O 16. Bh6 Nh7 17. Nf1 Bxh6 18. Qxh6 h4 19. Qd2 Qg5 20. Ne3 Nf6 21. g3 Nh5
+22. Rg1 Nd4 23. Rdf1 Bh3 24. f4 Qh6 25. Rf2 Kh7 26. Ncd5 Be6 27. c3 Nb3 28. Qd1
+Nc5 29. Bc2 Kh8 30. f5 Bxd5 31. Nxd5 Ng7 32. gxh4 Qxh4 33. Rfg2 Nxe4 34. Rg4 Qf2
+35. Bxe4 Nxf5 36. Rf1 Ne3 37. Nxe3 Qxe3 38. Qxd6 Qh6 39. Qf6+ Qg7 40. Qh4+ Kg8
+41. Rxg6 1-0

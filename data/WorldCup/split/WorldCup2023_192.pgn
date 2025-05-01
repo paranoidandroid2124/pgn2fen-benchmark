@@ -1,0 +1,32 @@
+[Event "FIDE World Cup 2023"]
+[Site "Baku AZE"]
+[Date "2023.08.01"]
+[Round "1.4"]
+[White "Fawzy,Adham"]
+[Black "Supi,L"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2533"]
+[BlackElo "2582"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[WhiteFideId "10613129"]
+[BlackFideId "2106388"]
+[EventDate "2023.07.30"]
+[EventType "k.o."]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. Bxc6 bxc6 5. d3 Ne7 6. b3 d6 7. Bb2 e5 8. Nbd2
+Ng6 9. h4 h5 10. Nc4 f6 11. Ne3 d5 12. g3 Be6 13. Qe2 Bd6 14. O-O Kf7 15. Ne1
+Qd7 16. N1g2 Rae8 17. Rae1 d4 18. Nc4 Bxc4 19. dxc4 Qh3 20. Bc1 Nf8 21. f4 Qxg3
+22. f5 g5 23. Rf3 Qg4 24. Kh2 gxh4 25. Nxh4 Rg8 26. Qf2 Qg7 27. Rf1 Ke7 28. Rh3
+Kd8 29. Nf3 Qf7 30. Rg1 Rg4 31. Rh4 Nd7 32. Rgxg4 hxg4 33. Rxg4 Rg8 34. Rxg8+
+Qxg8 35. Qh4 Be7 36. Qh5 Nb6 37. Qg6 Qh8+ 38. Kg2 Nc8 39. Bh6 Bf8 40. Bg5 fxg5
+41. Nxg5 Kc7 42. f6 Kb6 43. Nh7 Bd6 44. Kf3 Qd8 45. Qg7 Qe8 46. Kg4 Qd8 47. Kh5
+Qe8+ 48. Kg5 Qe6 49. Kh4 Qe8 50. Kg4 Qe6+ 51. Kg3 Ne7 52. fxe7 Bxe7 53. Ng5 Bxg5
+54. Qxg5 Qd6 55. Kg4 Qe6+ 56. Kg3 Qd6 57. Kh4 Qe6 58. Qg7 Qd6 59. Kg5 Qe6 60.
+Qf6 Qg8+ 61. Kf5 Qg2 62. Qd8+ Kb7 63. Qe7+ Kb6 64. Qd8+ Kb7 65. Kxe5 Qxc2 66.
+Kd6 Qxe4 67. Qc7+ Ka6 68. Kxc5 Qf5+ 69. Kb4 Qe6 70. Qd8 Kb7 71. Qxd4 Qe7+ 72. c5
+Qe1+ 73. Ka4 Qe7 74. Qd6 Qg7 75. b4 Qf7 76. a3 Qe8 77. Ka5 Qf7 78. a4 Qe8 79. b5
+Qe1+ 0-1

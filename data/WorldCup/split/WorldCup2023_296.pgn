@@ -1,0 +1,24 @@
+[Event "FIDE World Cup 2023"]
+[Site "Baku AZE"]
+[Date "2023.08.03"]
+[Round "2.2"]
+[White "Radjabov,T"]
+[Black "Erdos,V"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2747"]
+[BlackElo "2571"]
+[ECO "C92"]
+[Opening "Ruy Lopez"]
+[Variation "closed, 9.h3"]
+[WhiteFideId "13400924"]
+[BlackFideId "719978"]
+[EventDate "2023.07.30"]
+[EventType "k.o."]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O d6 6. Re1 b5 7. Bb3 Be7 8. c3
+O-O 9. h3 Re8 10. d4 Bb7 11. Nbd2 Bf8 12. d5 Nb8 13. Nf1 Nbd7 14. Ng3 h6 15. Nh2
+Rc8 16. Ng4 Nxg4 17. Qxg4 Nf6 18. Qf3 g6 19. a4 c6 20. dxc6 Rxc6 21. axb5 axb5
+22. Be3 Qe7 23. Ra5 Ra6 24. Rxb5 Bc6 25. Rb4 Rea8 26. Kh2 Nd7 27. Rd1 Ra1 28.
+Rxd6 1-0

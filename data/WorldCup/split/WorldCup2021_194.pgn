@@ -1,0 +1,20 @@
+[Event "FIDE World Cup 2021"]
+[Site "Krasnaya Polyana RUS"]
+[Date "2021.07.15"]
+[Round "2.1"]
+[White "Caruana,F"]
+[Black "Megaranto,S"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2806"]
+[BlackElo "2550"]
+[ECO "C55"]
+[Opening "Two knights defence (Modern bishop's opening)"]
+[WhiteFideId "2020009"]
+[BlackFideId "7101384"]
+[EventDate "2021.07.12"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 h6 5. c3 d6 6. Nbd2 g6 7. Nf1 Bg7 8. Ng3
+Qe7 9. O-O O-O 10. h3 Na5 11. Bb5 a6 12. Ba4 b5 13. Bc2 c5 14. d4 cxd4 15. cxd4
+Bd7 1-0

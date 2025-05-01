@@ -1,0 +1,26 @@
+[Event "FIDE World Cup 2023"]
+[Site "Baku AZE"]
+[Date "2023.08.13"]
+[Round "5.2"]
+[White "Duda,J"]
+[Black "Caruana,F"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2732"]
+[BlackElo "2782"]
+[ECO "E53"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...c5"]
+[WhiteFideId "1170546"]
+[BlackFideId "2020009"]
+[EventDate "2023.07.30"]
+[EventType "k.o."]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 d5 7. cxd5 cxd4 8. exd4
+exd5 9. O-O Bg4 10. h3 Bh5 11. g4 Bg6 12. Ne5 Nbd7 13. Nxg6 hxg6 14. Qb3 Bxc3
+15. Qxc3 Ne4 16. Qb3 Nb6 17. Kg2 Rc8 18. Be3 f5 19. f3 Nc4 20. Bxe4 fxe4 21.
+fxe4 Rxf1 22. Rxf1 dxe4 23. Qc3 Kh7 24. Bf4 Qd5 25. Kg3 Rf8 26. Qb4 Rf7 27. Rc1
+g5 28. Qxc4 gxf4+ 29. Kg2 f3+ 30. Kf1 Qd7 31. d5 Re7 32. Qc5 Re5 33. Re1 Rxd5
+34. Qc2 Qb5+ 35. Kf2 Qb6+ 36. Kf1 Rd4 37. Qf2 Qa6+ 38. Kg1 Qd6 39. Kf1 Rd1 40.
+Qe3 Qd3+ 41. Kf2 Rd2+ 42. Kg3 f2 0-1

@@ -1,0 +1,23 @@
+[Event "FIDE World Cup 2021"]
+[Site "Krasnaya Polyana RUS"]
+[Date "2021.07.12"]
+[Round "1.1"]
+[White "Kassis,A LIB"]
+[Black "Kuzubov,Y"]
+[Result "0-1"]
+[WhiteTitle "FM"]
+[BlackTitle "GM"]
+[WhiteElo "2205"]
+[BlackElo "2653"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "King's Indian attack"]
+[WhiteFideId "5300150"]
+[BlackFideId "14112906"]
+[EventDate "2021.07.12"]
+
+1. e4 e6 2. d3 d5 3. Nd2 c5 4. Ngf3 Nc6 5. g3 Bd6 6. Bg2 Nge7 7. O-O O-O 8. Nh4
+Bc7 9. f4 f6 10. exd5 Nxd5 11. Ne4 b6 12. a3 Nde7 13. Re1 Rb8 14. Nf2 Nd4 15. c3
+Ndf5 16. Nxf5 Nxf5 17. Be4 Ne7 18. d4 cxd4 19. cxd4 Qd7 20. Qd3 f5 21. Bf3 Bb7
+22. Bxb7 Rxb7 23. Qc4 Nd5 24. Bd2 Bd8 25. Nd3 Rc7 26. Qb3 Bf6 27. Bc3 Nxc3 28.
+bxc3 Rxc3 0-1

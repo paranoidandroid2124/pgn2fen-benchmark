@@ -1,0 +1,27 @@
+[Event "FIDE World Cup 2023"]
+[Site "Baku AZE"]
+[Date "2023.08.07"]
+[Round "3.4"]
+[White "Wojtaszek,R"]
+[Black "Schitco,Ivan"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2676"]
+[BlackElo "2507"]
+[ECO "E68"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation, 8.e4"]
+[WhiteFideId "1118358"]
+[BlackFideId "13905465"]
+[EventDate "2023.07.30"]
+[EventType "k.o."]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Nf3 O-O 5. Bg2 d6 6. Nc3 Nbd7 7. O-O e5 8. e4
+Re8 9. h3 a6 10. Be3 exd4 11. Nxd4 Nc5 12. Qc2 Bd7 13. Rad1 Qc8 14. b4 Ne6 15.
+Kh2 a5 16. a3 axb4 17. axb4 Ra3 18. Ndb5 Bxb5 19. Nxb5 Rxe3 20. fxe3 Ng5 21. c5
+dxc5 22. Qxc5 Nfxe4 23. Qxc7 Be5 24. Qxc8 Rxc8 25. Bxe4 Nxe4 26. Nd4 Nxg3 27.
+Rfe1 Rc4 28. Kg2 Ne4 29. b5 Rc7 30. Rc1 Re7 31. Nf3 Bf6 32. Nd4 Nd6 33. b6 Re4
+34. Kf3 Rh4 35. Rc7 Rxh3+ 36. Kg2 Rh5 37. Rd7 Rd5 38. Nf3 Rd3 39. e4 Bc3 40. Rc1
+Bb2 41. Rc2 Ba3 42. e5 Rb3 43. exd6 Rxb6 44. Rd8+ Kg7 45. d7 Be7 46. Re8 Bf6 47.
+d8=Q Bxd8 48. Rxd8 1-0

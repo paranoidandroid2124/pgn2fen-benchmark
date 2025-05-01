@@ -1,0 +1,25 @@
+[Event "FIDE World Cup 2023"]
+[Site "Baku AZE"]
+[Date "2023.08.06"]
+[Round "3.2"]
+[White "Gukesh,D"]
+[Black "Narayanan,SL"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2744"]
+[BlackElo "2656"]
+[ECO "C81"]
+[Opening "Ruy Lopez"]
+[Variation "open, Howell attack"]
+[WhiteFideId "46616543"]
+[BlackFideId "5058422"]
+[EventDate "2023.07.30"]
+[EventType "k.o."]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Qe2 Be7 10. Rd1 O-O 11. c3 Nc5 12. Bc2 Bg4 13. h3 Bh5 14. Nbd2 Re8 15.
+Nb3 Bf8 16. g4 Bg6 17. Nxc5 Bxc5 18. b4 Bb6 19. Bf4 Qd7 20. Bb3 Ne7 21. a4 c5
+22. bxc5 Bxc5 23. Nd4 b4 24. cxb4 Bxb4 25. Rac1 Ba5 26. Nc6 Nxc6 27. Bxd5 Nb4
+28. Bxa8 Qxa4 29. Ra1 Qb3 30. Be4 Bxe4 31. Qxe4 Qxh3 32. Be3 Bc7 33. Rac1 Bb8
+34. Rc5 h5 35. Rdc1 Qxg4+ 36. Qxg4 hxg4 37. Rc8 1-0

@@ -1,0 +1,29 @@
+[Event "FIDE World Cup 2023"]
+[Site "Baku AZE"]
+[Date "2023.08.04"]
+[Round "2.4"]
+[White "Indjic,A"]
+[Black "Bacrot,E"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2619"]
+[BlackElo "2662"]
+[ECO "A09"]
+[Opening "Reti"]
+[Variation "advance variation"]
+[WhiteFideId "911925"]
+[BlackFideId "605506"]
+[EventDate "2023.07.30"]
+[EventType "k.o."]
+
+1. Nf3 d5 2. c4 d4 3. b4 Nf6 4. g3 c5 5. Bg2 cxb4 6. a3 b3 7. d3 Nc6 8. Nbd2 e5
+9. O-O Be7 10. Rb1 O-O 11. Nxb3 Qc7 12. Ne1 h6 13. Nc2 Be6 14. Nb4 Rab8 15. Nd5
+Qd7 16. Nxe7+ Qxe7 17. a4 Rfe8 18. a5 Qc7 19. Bd2 Qc8 20. Re1 Bh3 21. Bh1 Nd8
+22. Bb4 Qc7 23. Qc1 Nc6 24. Bd2 Ng4 25. f3 Ne3 26. Bxe3 dxe3 27. Qxe3 f5 28. f4
+e4 29. dxe4 fxe4 30. Ra1 Kh8 31. Rec1 Rbd8 32. Bg2 Bf5 33. h3 Qf7 34. a6 b6 35.
+c5 b5 36. Rd1 Qf6 37. Rac1 Nb4 38. Kh2 Qxa6 39. g4 Bh7 40. Nd4 Nd5 41. Qg3 b4
+42. Ra1 Qf6 43. e3 Nc3 44. Rd2 Rxd4 45. g5 Qf7 46. exd4 e3 47. Rb2 a5 48. Rxa5
+e2 49. Ra1 Nd1 50. Rxe2 Rxe2 51. Ra8+ Bg8 52. gxh6 gxh6 53. Kg1 b3 54. Qf3 Rd2
+55. Qd5 Qg7 56. Kh1 Nc3 57. Rxg8+ Qxg8 58. Qe5+ Qg7 59. Qe8+ Kh7 60. Be4+ Nxe4
+61. Qxe4+ Kg8 62. Qa8+ Qf8 63. Qd5+ Qf7 64. Qa8+ Kg7 65. Qf3 b2 0-1

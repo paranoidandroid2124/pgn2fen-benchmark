@@ -1,0 +1,28 @@
+[Event "FIDE World Cup 2023"]
+[Site "Baku AZE"]
+[Date "2023.08.04"]
+[Round "2.9"]
+[White "Grischuk,A"]
+[Black "Daneshvar,Bardiya"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2736"]
+[BlackElo "2577"]
+[ECO "D30"]
+[Opening "Queen's gambit declined"]
+[WhiteFideId "4126025"]
+[BlackFideId "12576468"]
+[EventDate "2023.07.30"]
+[EventType "k.o."]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. g3 Bb4+ 5. Bd2 Be7 6. Bg2 c6 7. Qc2 O-O 8. h4
+Nbd7 9. Bf4 h6 10. O-O Nh5 11. Bc1 Nhf6 12. Nbd2 b6 13. e4 Ba6 14. b3 Rc8 15.
+Rd1 c5 16. exd5 exd5 17. Bb2 cxd4 18. Nxd4 Bc5 19. Qf5 g6 20. Qf4 dxc4 21. Qxh6
+Re8 22. Nxc4 Bf8 23. Qg5 Rc5 24. Qf4 Bxc4 25. bxc4 Rxc4 26. Rac1 Nh5 27. Qd2 Ne5
+28. Ba1 Bg7 29. Rxc4 Nxc4 30. Qc2 Ne5 31. Ne6 Qe7 32. Nxg7 Nxg7 33. Qb2 f6 34.
+Qb3+ Kh7 35. a4 Rd8 36. Rxd8 Qxd8 37. Bxe5 fxe5 38. Qf7 Qd1+ 39. Kh2 Qxa4 40.
+Bd5 Kh6 41. Qe7 Qd4 42. Bg2 Qxf2 43. Qxe5 Qf7 44. Bd5 Qf2+ 45. Bg2 Kh7 46. Kh1
+a5 47. Be4 Qf1+ 48. Kh2 Qf2+ 49. Kh3 Qf1+ 50. Kh2 a4 51. h5 Qe2+ 52. Kg1 Qxh5
+53. Qd4 Qc5 54. Qxc5 bxc5 55. Kf2 Nf5 56. g4 a3 57. Bd5 Nd6 58. Ba2 Ne4+ 59. Ke3
+Nc3 0-1

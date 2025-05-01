@@ -1,0 +1,120 @@
+<p align="center">
+  <img src="images/PGN2FEN.png" width="500">
+</p>
+
+---
+
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+# PGN2FEN Benchmark ♟️
+
+PGN2FEN is a benchmark for evaluating language models' ability to understand and transcribe chess game move sequences.
+
+For more context on this work, refer to the blog post: [PGN2FEN: A Benchmark for Evaluating LLM Chess Reasoning](www.aidancooper.co.uk/pgn2fen-benchmark/)
+
+**Table of contents**
+
+* [Benchmark Leaderboards](#benchmark-leaderboards)
+* [Task](#task)
+* [Data](#data)
+* [Framework](#framework)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Citation](#citation)
+
+## Benchmark Leaderboards
+
+**Last updated:** 2025-05-03
+
+*Coming soon:*
+- Anthropic's Claude models
+
+### Reasoning Language Models
+
+<p align="center">
+  <img src="results/full_correctness_reasoning.png" width="800">
+</p>
+
+**Full correctness accuracy (%):**
+<div align="center">
+
+| provider   | model                          |   0-10 moves |   11-20 moves |   21-40 moves |   41-60 moves |   61-80 moves |   81-100 moves |
+|:-----------|:-------------------------------|-------------:|--------------:|--------------:|--------------:|--------------:|---------------:|
+| openai     | o3-2025-04-16                  |           99 |          91.7 |          95   |          90   |          95   |           96.4 |
+| openai     | o3-mini-2025-01-31             |           82 |          74   |          49   |          39.5 |          27   |           16   |
+| deepseek   | deepseek-reasoner              |           82 |          22   |           7.5 |           9.5 |           3   |            6   |
+| google     | gemini-2.5-pro-preview-03-25   |           48 |           8   |           2   |           1   |           0   |            0   |
+| openai     | o4-mini-2025-04-16             |           28 |          19   |          17.5 |          25.8 |          35.8 |           42.5 |
+| google     | gemini-2.5-flash-preview-04-17 |           19 |           1   |           0   |           0   |           0   |            0   |
+
+</div>
+
+### Non-Reasoning Language Models
+
+<p align="center">
+  <img src="results/full_correctness_non_reasoning.png" width="800">
+</p>
+
+**Full correctness accuracy (%):**
+<div align="center">
+
+| provider   | model                     |   0-10 moves |   11-20 moves |   21-40 moves |   41-60 moves |   61-80 moves |   81-100 moves |
+|:-----------|:--------------------------|-------------:|--------------:|--------------:|--------------:|--------------:|---------------:|
+| google     | gemini-2.0-flash-001      |           44 |            10 |           3.5 |           0.5 |           0.5 |              0 |
+| google     | gemini-2.0-flash-lite-001 |           36 |             7 |           1.5 |           0   |           0   |              0 |
+| deepseek   | deepseek-chat             |           25 |             0 |           0   |           0   |           0   |              0 |
+| openai     | gpt-4.1-2025-04-14        |           20 |             1 |           0   |           0   |           0   |              0 |
+| openai     | gpt-4.1-mini-2025-04-14   |           17 |             0 |           0   |           0   |           0   |              0 |
+| openai     | gpt-4.1-nano-2025-04-14   |            2 |             0 |           0   |           0   |           0   |              0 |
+
+</div>
+
+## Task
+
+The task is to translate chess game move sequences notated in [PGN](https://en.wikipedia.org/wiki/Portable_Game_Notation) format into a board state representation using [FEN](https://en.wikipedia.org/wiki/Forsyth%E2%80%93Edwards_Notation). The difficulty of the task is proportional to the number of moves in the game.
+
+## Data
+
+The PGN-formatted games that comprise the benchmark data are prepared from Chess World Cup games sourced via [pgnmentor.com](https://www.pgnmentor.com/files.html#interzonal). These games are truncated to yield 1,000 inputs ranging between 1 and 100 halfmoves (10 examples for each move count) using the [prepare_benchmark_data.py](./scripts/prepare_benchmark_data.py) script.
+
+Games from professional play were deliberately chosen as the foundation for this benchmark, to yield realistic move sequences that align with the models' internalised chess knowledge. Given that state of the art reasoning models such as OpenAI's o3 are close to saturating this benchmark up to 100 halfmoves, future iterations may explore: i) randomly generated, unrealistic game moves sequences; and ii) real-world [chess960 (aka Fischer Random Chess)](https://en.wikipedia.org/wiki/Chess960) games.
+
+## Framework
+
+The codebase includes the following features:
+1. API client integrations for generating PGN2FEN results for models from OpenAI, DeepSeek, and Google.
+2. Logic for evaluating partially accurate or incomplete FEN strings. Useful for weaker models that struggle to reliably generate fully-formed, valid FEN.
+3. More refined FEN comparison logic than direct string matching. Allows for nuanced assessment of ambiguous FEN components, or components with multiple notation conventions.
+4. Optionally, extract FEN-like strings from larger blocks of text. Useful for models that do not obey instructions to supply the FEN string directly and nothing else (pervasive for DeepSeek Chat).
+5. Tools for analysing and visualising PGN2FEN results.
+6. Tools for ingesting and preparing PGN input data.
+
+## Installation
+
+```
+git clone git@github.com:AidanCooper/pgn2fen-benchmark.git
+cd pgn2fen-benchmark
+pip install -e .
+```
+
+## Usage
+
+1. Generate FEN outputs for a specific model using the [`run_model_on_benchmark.py`](./scripts/run_model_on_benchmark.py) script.
+2. Inspect the results for a specific model using the [`analyse_logs.py`](./scripts/analyse_logs.py) script.
+3. Produce benchmark plots and tables using the [`prepare_benchmark_results.py`](./scripts/prepare_benchmark_results.py) script.
+
+Example CLI commands are provided under [scripts/README.md](./scripts/README.md)
+
+## Citation
+
+```
+@misc{pgn2fen-benchmark,
+  author = {Cooper, Aidan},
+  title = {PGN2FEN Benchmark},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/AidanCooper/pgn2fen-benchmark}},
+  year = 2025,
+}
+
+```

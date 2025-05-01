@@ -1,0 +1,24 @@
+[Event "FIDE World Cup 2023"]
+[Site "Baku AZE"]
+[Date "2023.07.30"]
+[Round "1.1"]
+[White "Zhang,Yuanchen"]
+[Black "Nguyen,Thai Dai Van"]
+[Result "0-1"]
+[WhiteTitle "IM"]
+[BlackTitle "GM"]
+[WhiteElo "2281"]
+[BlackElo "2642"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "Charousek (Petrosian) variation"]
+[WhiteFideId "2611902"]
+[BlackFideId "358878"]
+[EventDate "2023.07.30"]
+[EventType "k.o."]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. cxd5 exd5 5. Bf4 c6 6. e3 Bf5 7. g4 Be6 8. h4
+Nd7 9. Qb3 b5 10. g5 h6 11. g6 Ngf6 12. Bd3 O-O 13. Nge2 b4 14. Na4 fxg6 15.
+Bxg6 Qa5 16. Rg1 Kh8 17. Be5 Bg8 18. Nf4 Nxe5 19. dxe5 Nd7 20. e6 Rxf4 21. exf4
+Bxe6 22. O-O-O Bg8 23. Bc2 Bf6 24. Qh3 Nb6 25. b3 Nxa4 26. bxa4 Qc5 27. Qd3 Qxf2
+28. Rdf1 Qc5 29. Rg6 Qc3 30. Qxc3 bxc3 31. Rg3 c5 32. h5 d4 0-1

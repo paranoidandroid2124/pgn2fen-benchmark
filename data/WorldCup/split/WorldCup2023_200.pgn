@@ -1,0 +1,25 @@
+[Event "FIDE World Cup 2023"]
+[Site "Baku AZE"]
+[Date "2023.08.01"]
+[Round "1.5"]
+[White "Brkic,A"]
+[Black "Matamoros Franco,C"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2608"]
+[BlackElo "2441"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Steinitz variation"]
+[WhiteFideId "14506688"]
+[BlackFideId "3600017"]
+[EventDate "2023.07.30"]
+[EventType "k.o."]
+
+1. e4 c6 2. d4 d5 3. e5 c5 4. dxc5 e6 5. c3 Nc6 6. Nf3 Bxc5 7. b4 Bb6 8. b5 Na5
+9. Bd3 Qc7 10. O-O Ne7 11. a4 h6 12. Ba3 Bc5 13. Bxc5 Qxc5 14. Nd4 Nc4 15. Qe2
+Bd7 16. Nd2 Nxd2 17. Qxd2 O-O 18. Rae1 a6 19. Re3 Nf5 20. Bxf5 exf5 21. Rg3 Kh8
+22. h4 axb5 23. axb5 Ra3 24. Rc1 Rfa8 25. Qf4 Qc8 26. Kh2 R8a4 27. h5 Rc4 28.
+Qd2 Qc7 29. f4 Qc8 30. Rc2 Qd8 31. Kg1 Qb6 32. Ra2 Rxd4 33. cxd4 Rxg3 34. Ra8+
+Kh7 35. Qb4 Rd3 36. Rd8 Qxd8 0-1

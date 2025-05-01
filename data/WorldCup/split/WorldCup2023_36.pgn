@@ -1,0 +1,24 @@
+[Event "FIDE World Cup 2023"]
+[Site "Baku AZE"]
+[Date "2023.07.30"]
+[Round "1.1"]
+[White "Pechac,Jergus"]
+[Black "Paragua,M"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2608"]
+[BlackElo "2438"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Adams attack"]
+[WhiteFideId "14926970"]
+[BlackFideId "5201241"]
+[EventDate "2023.07.30"]
+[EventType "k.o."]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e5 7. Nf3 Be7 8. g4 h6
+9. Rg1 Nc6 10. g5 hxg5 11. Nxg5 Be6 12. Nxe6 fxe6 13. Rxg7 Qa5 14. Bd2 Qc5 15.
+Qf3 Nd4 16. Qd3 Nh5 17. Rg6 Rf8 18. O-O-O Rxf2 19. Be2 Nf4 20. Bxf4 Rxf4 21. Bg4
+Rf6 22. Rg8+ Rf8 23. Rxf8+ Bxf8 24. Ne2 Nxe2+ 25. Qxe2 Bh6+ 26. Kb1 Ke7 27. Bxe6
+Kxe6 28. Qg4+ Kf6 29. Qd7 d5 30. Rxd5 1-0

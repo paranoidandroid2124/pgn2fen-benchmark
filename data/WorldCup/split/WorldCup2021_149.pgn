@@ -1,0 +1,28 @@
+[Event "FIDE World Cup 2021"]
+[Site "Krasnaya Polyana RUS"]
+[Date "2021.07.14"]
+[Round "1.3"]
+[White "Haria,R"]
+[Black "Zvjaginsev,V"]
+[Result "1-0"]
+[WhiteTitle "IM"]
+[BlackTitle "GM"]
+[WhiteElo "2440"]
+[BlackElo "2608"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, Sokolsky variation"]
+[WhiteFideId "415820"]
+[BlackFideId "4113403"]
+[EventDate "2021.07.12"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. c4 e5 6. Nc3 Be7 7. a3 a5 8. d3
+Bd8 9. Rb1 Nc6 10. O-O Nge7 11. Nd5 O-O 12. Bd2 Nxd5 13. cxd5 Ne7 14. b4 cxb4
+15. axb4 a4 16. d4 Ng6 17. dxe5 dxe5 18. Be3 f5 19. Nd2 f4 20. Bc5 Rf6 21. f3 b6
+22. Bf2 b5 23. Rc1 Bb6 24. Nb1 Bxf2+ 25. Rxf2 Ne7 26. Na3 Nc8 27. Rfc2 Nd6 28.
+Qd3 Ra7 29. Rc6 Rb7 30. Qc3 Qe7 31. Kf1 h6 32. Rc7 Rxc7 33. Qxc7 Rf7 34. Qxe7
+Rxe7 35. Rc6 Rd7 36. Ke2 Kf8 37. Kd3 Ke7 38. Rb6 g5 39. Nxb5 Nxb5 40. Rxb5 Rc7
+41. Rc5 Rb7 42. Kc3 h5 43. Rc6 g4 44. Re6+ Kd7 45. Rxe5 Rc7+ 46. Kb2 Rc4 47. Ka3
+Rc2 48. Rxh5 Rxg2 49. fxg4 Re2 50. Rf5 Rxe4 51. Kxa4 Kd6 52. g5 Re5 53. Rxf4
+Rxg5 54. Rd4 Rg2 55. h4 Rh2 56. Kb5 Ke5 57. Rd1 Kd6 58. Kb6 Rxh4 59. b5 Ra4 60.
+Kb7 Rb4 61. b6 Kc5 62. Rc1+ Kxd5 63. Kc7 1-0

@@ -1,0 +1,25 @@
+[Event "FIDE World Cup 2023"]
+[Site "Baku AZE"]
+[Date "2023.08.01"]
+[Round "1.7"]
+[White "Sanal,V"]
+[Black "Kozul,Z"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2585"]
+[BlackElo "2532"]
+[ECO "B63"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack"]
+[WhiteFideId "6300545"]
+[BlackFideId "14502879"]
+[EventDate "2023.07.30"]
+[EventType "k.o."]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 Qb6 8. Nb3
+a6 9. O-O-O Be7 10. f3 O-O 11. h4 Qc7 12. h5 h6 13. Bf4 Ne5 14. Kb1 b5 15. Ne2
+Nc4 16. Qc1 e5 17. Bg3 Be6 18. Bh4 a5 19. g4 a4 20. Na1 d5 21. g5 hxg5 22. Qxg5
+Rfe8 23. h6 g6 24. h7+ Nxh7 25. Qh6 Bf8 26. Qxh7+ Kxh7 27. Bd8+ Kg8 28. Bxc7
+dxe4 29. Nc3 Ne3 30. Re1 Nxf1 31. Rexf1 Bc4 32. Nxe4 Bxf1 33. Nf6+ Kg7 34. Nxe8+
+Rxe8 35. Rxf1 f5 36. c3 Kf6 37. Nc2 Bc5 38. Rd1 Ke6 39. Nb4 1-0

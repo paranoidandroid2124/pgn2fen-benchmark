@@ -1,0 +1,59 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pgn2fen-benchmark"
+version = "0.1.0"
+description = "A benchmark for evaluating language model chess understanding."
+readme = "README.md"
+requires-python = ">=3.12"
+authors = [{ name = "Aidan Cooper", email = "aidan@aidancooper.co.uk" }]
+license = { text = "MIT" }
+
+dependencies = [
+    "backoff",
+    "python-dotenv",
+    "python-chess",
+    "pandas",
+    "matplotlib",
+    "tqdm",
+    "tabulate",
+    "google-generativeai",
+    "openai",
+]
+
+[project.optional-dependencies]
+test = [
+    "pytest",
+    "black==25.1.0",
+    "ruff==0.11.6",
+    "mypy==1.15.0",
+    "pre-commit",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/AidanCooper/pgn2fen-benchmark"
+
+[tool.setuptools]
+packages = ["pgn2fen"]
+
+[tool.black]
+line-length = 100
+target-version = ['py312']
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP"]
+
+[tool.mypy]
+python_version = 3.12
+strict = true
+disallow_untyped_decorators = false
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

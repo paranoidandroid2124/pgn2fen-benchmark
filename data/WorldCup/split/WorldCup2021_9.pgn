@@ -1,0 +1,23 @@
+[Event "FIDE World Cup 2021"]
+[Site "Krasnaya Polyana RUS"]
+[Date "2021.07.12"]
+[Round "1.1"]
+[White "Miguel,Sergio"]
+[Black "Saric,Iv"]
+[Result "0-1"]
+[WhiteTitle "FM"]
+[BlackTitle "GM"]
+[WhiteElo "2286"]
+[BlackElo "2653"]
+[ECO "E70"]
+[Opening "King's Indian"]
+[Variation "4.e4"]
+[WhiteFideId "10100792"]
+[BlackFideId "14508150"]
+[EventDate "2021.07.12"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Bd3 O-O 6. Nge2 Nc6 7. O-O e5 8. d5
+Nd4 9. Rb1 Nh5 10. b4 a5 11. a3 axb4 12. axb4 Nxe2+ 13. Nxe2 f5 14. exf5 Bxf5
+15. Bxf5 gxf5 16. Nd4 exd4 17. Qxh5 Qe8 18. Qd1 Qe4 19. Bb2 Rfe8 20. Qb3 h5 21.
+Rbd1 h4 22. h3 Re7 23. Ra1 Rae8 24. Bc1 Bf6 25. f3 Qe5 26. f4 Qe4 27. Ra3 Rg7
+28. Qf3 Qc2 29. c5 Rg3 0-1

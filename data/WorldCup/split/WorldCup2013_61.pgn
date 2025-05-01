@@ -1,0 +1,20 @@
+[Event "FIDE World Cup 2013"]
+[Site "Tromso NOR"]
+[Date "2013.08.11"]
+[Round "1.1"]
+[White "Zvjaginsev, Vadim"]
+[Black "Swiercz, Dariusz"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2659"]
+[BlackElo "2654"]
+[ECO "E51"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 e8g8, 5.Nf3 d7d5"]
+[WhiteFideId "4113403"]
+[BlackFideId "1126881"]
+[EventDate "2013.08.11"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Nc3 Bb4 5. e3 O-O 6. Bd2 b6 7. Be2 Bb7 8. O-O
+dxc4 9. Bxc4 c5 10. a3 Bxc3 11. Bxc3 Ne4 12. Rc1 1/2-1/2

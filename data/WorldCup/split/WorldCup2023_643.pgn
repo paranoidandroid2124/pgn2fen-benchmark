@@ -1,0 +1,26 @@
+[Event "FIDE World Cup 2023"]
+[Site "Baku AZE"]
+[Date "2023.08.14"]
+[Round "5.6"]
+[White "Vidit,S"]
+[Black "Nepomniachtchi,I"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2719"]
+[BlackElo "2779"]
+[ECO "A80"]
+[Opening "Dutch, 2.Bg5 variation"]
+[WhiteFideId "5029465"]
+[BlackFideId "4168119"]
+[EventDate "2023.07.30"]
+[EventType "k.o."]
+
+1. d4 f5 2. Bg5 h6 3. Bh4 g5 4. Bg3 Nf6 5. e3 d6 6. Nc3 c6 7. h4 Rg8 8. hxg5
+hxg5 9. Bc4 d5 10. Bd3 Qb6 11. a3 Be6 12. Nge2 Nbd7 13. b4 Bg7 14. f3 Kf7 15.
+Na4 Qd8 16. c3 b6 17. Qc2 Rh8 18. Rf1 a5 19. b5 cxb5 20. Bxb5 Nh5 21. Bh2 Bf6
+22. Rb1 Ra7 23. c4 Ng7 24. cxd5 Bxd5 25. Bg3 e6 26. Nec3 Ba8 27. Bc4 f4 28. Bf2
+Rh2 29. Bg1 Rc7 30. Nb5 Rh1 31. Nxc7 Qxc7 32. Bf2 Rh2 33. Rc1 Qd6 34. Bg1 Rh1
+35. exf4 gxf4 36. Bf2 Rh2 37. Bg1 Rh5 38. Nc3 Nf5 39. Nb5 Qe7 40. Bd3 Kg7 41.
+Bf2 Rh2 42. Qc8 Rh8 43. Qc7 Bd5 44. Kd2 Rh2 45. Bxf5 exf5 46. Rfe1 Be4 47. Nd6
+Qe6 48. fxe4 Rxg2 49. Rg1 f3 50. Rxg2+ fxg2 51. d5 Bg5+ 52. Ke2 1-0

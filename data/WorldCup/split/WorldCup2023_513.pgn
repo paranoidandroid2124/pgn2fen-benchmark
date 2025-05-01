@@ -1,0 +1,25 @@
+[Event "FIDE World Cup 2023"]
+[Site "Baku AZE"]
+[Date "2023.08.07"]
+[Round "3.3"]
+[White "Radjabov,T"]
+[Black "Santos Latasa,J"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2747"]
+[BlackElo "2656"]
+[ECO "C50"]
+[Opening "Giuoco Pianissimo"]
+[Variation "Italian four knights variation"]
+[WhiteFideId "13400924"]
+[BlackFideId "2293307"]
+[EventDate "2023.07.30"]
+[EventType "k.o."]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 Nf6 5. Nc3 h6 6. h3 a6 7. a4 d6 8. Be3 Bxe3
+9. fxe3 Be6 10. Nd2 O-O 11. O-O Bxc4 12. Nxc4 d5 13. exd5 Nxd5 14. Qh5 Nxc3 15.
+bxc3 Qd5 16. Rf3 b5 17. Rg3 Qe6 18. Nd2 Ne7 19. c4 bxc4 20. Nxc4 e4 21. Qa5 Nf5
+22. Rg4 exd3 23. cxd3 Nxe3 24. Re1 Nxc4 25. Rxc4 Qd6 26. Qc3 Rfe8 27. Rxe8+ Rxe8
+28. Rxc7 Re6 29. d4 Re4 30. Rc6 Qf4 31. Rxa6 Rxd4 32. Ra8+ Kh7 33. Qc2+ g6 34.
+Rf8 0-1

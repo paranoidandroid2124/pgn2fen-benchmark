@@ -1,0 +1,23 @@
+[Event "FIDE World Cup 2021"]
+[Site "Krasnaya Polyana RUS"]
+[Date "2021.07.12"]
+[Round "1.1"]
+[White "Sevian,Samuel"]
+[Black "Subramaniam,Su"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "FM"]
+[WhiteElo "2647"]
+[BlackElo "2155"]
+[ECO "C70"]
+[Opening "Ruy Lopez"]
+[Variation "Cozio defence deferred"]
+[WhiteFideId "2040506"]
+[BlackFideId "5702720"]
+[EventDate "2021.07.12"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nge7 5. c3 g6 6. d4 exd4 7. cxd4 b5 8. Bc2
+Bg7 9. d5 Na5 10. Bd2 Nc4 11. Bc3 Bxc3+ 12. Nxc3 Nxb2 13. Qd4 O-O 14. Nxb5 axb5
+15. Qxb2 c5 16. h4 Qa5+ 17. Kf1 d6 18. Qf6 Qd8 19. h5 Nc6 20. Qf4 Nb4 21. Bb1
+Ra7 22. a3 Qe7 23. Kg1 Re8 24. Rh4 Ra4 25. Qh6 Qf8 26. hxg6 Qxh6 27. gxf7+ Kxf7
+28. Rxh6 Bg4 29. Ng5+ Kg7 30. Rxh7+ Kg8 31. Rh6 Kg7 32. Rxd6 Rea8 33. e5 1-0

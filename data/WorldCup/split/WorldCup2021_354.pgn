@@ -1,0 +1,23 @@
+[Event "FIDE World Cup 2021"]
+[Site "Krasnaya Polyana RUS"]
+[Date "2021.07.17"]
+[Round "2.4"]
+[White "Bluebaum,M"]
+[Black "Erdos,V"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2669"]
+[BlackElo "2614"]
+[ECO "D02"]
+[Opening "Queen's bishop game"]
+[WhiteFideId "24651516"]
+[BlackFideId "719978"]
+[EventDate "2021.07.12"]
+
+1. d4 Nf6 2. Bf4 d5 3. Nf3 Bf5 4. c4 e6 5. Nc3 Bd6 6. Bxd6 Qxd6 7. e3 Nc6 8. c5
+Qd7 9. Bb5 Bg4 10. a3 a6 11. Ba4 O-O 12. O-O b5 13. Bc2 Rfe8 14. h3 Bh5 15. Re1
+e5 16. dxe5 Bxf3 17. Qxf3 Nxe5 18. Qf4 c6 19. Rad1 a5 20. Qd4 Rad8 21. Ne2 a4
+22. Ng3 Nc4 23. Nf5 Qc7 24. f4 h5 25. g4 hxg4 26. hxg4 Re6 27. g5 Nh5 28. Kf2
+Rde8 29. Rh1 Re4 30. Bxe4 Rxe4 31. Rxh5 Rxd4 32. Rdh1 Rxf4+ 33. Ke2 f6 34. g6
+Rxf5 35. Rh8# 1-0

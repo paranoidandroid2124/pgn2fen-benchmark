@@ -1,0 +1,28 @@
+[Event "FIDE World Cup 2023"]
+[Site "Baku AZE"]
+[Date "2023.08.01"]
+[Round "1.3"]
+[White "Berkes,F"]
+[Black "Darini,P"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2615"]
+[BlackElo "2412"]
+[ECO "D80"]
+[Opening "Gruenfeld defence"]
+[WhiteFideId "718572"]
+[BlackFideId "12502200"]
+[EventDate "2023.07.30"]
+[EventType "k.o."]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. e3 Bg7 5. Qa4+ c6 6. Nf3 O-O 7. Be2 Nbd7 8. cxd5
+Nxd5 9. O-O N5b6 10. Qc2 e5 11. Rd1 Qe7 12. e4 exd4 13. Nxd4 Nc5 14. Be3 Re8 15.
+f3 f5 16. b4 Ne6 17. Rab1 fxe4 18. fxe4 Nxd4 19. Bxd4 Bxd4+ 20. Rxd4 Be6 21. Qd2
+Rad8 22. Rd1 Rxd4 23. Qxd4 Qg7 24. Qxg7+ Kxg7 25. Kf2 Kf6 26. a4 Bb3 27. Ra1 a6
+28. a5 Nd7 29. Ke3 Ke5 30. Rb1 Be6 31. Na4 Re7 32. h4 Rf7 33. Nb2 Kd6 34. Rd1+
+Kc7 35. Bc4 Re7 36. Bxe6 Rxe6 37. Nd3 Re7 38. Rf1 b6 39. Kd4 bxa5 40. bxa5 Kd6
+41. e5+ Kc7 42. g4 h6 43. h5 gxh5 44. gxh5 Rg7 45. e6 c5+ 46. Kc3 c4 47. Kxc4
+Rg4+ 48. Kd5 Rg5+ 49. Ke4 Nc5+ 50. Nxc5 Rxc5 51. Rf5 Rc1 52. Rd5 Kc6 53. Rd8 Kc7
+54. Rd4 Rh1 55. Rd5 Rh4+ 56. Kd3 Rh3+ 57. Kd4 Rh4+ 58. Kc5 Ra4 59. Rd7+ Kc8 60.
+Rh7 Kd8 61. Kd5 Ke8 62. Ke5 Kf8 63. Rxh6 1-0

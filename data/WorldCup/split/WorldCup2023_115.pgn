@@ -1,0 +1,25 @@
+[Event "FIDE World Cup 2023"]
+[Site "Baku AZE"]
+[Date "2023.07.31"]
+[Round "1.2"]
+[White "Puranik,A"]
+[Black "Ibarra Chami,L"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2605"]
+[BlackElo "2448"]
+[ECO "C95"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Breyer, Borisenko variation"]
+[WhiteFideId "5061245"]
+[BlackFideId "5105048"]
+[EventDate "2023.07.30"]
+[EventType "k.o."]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 Re8 13. Nf1 Bf8 14. Ng3 g6 15. b3
+Bg7 16. d5 Nb6 17. Rb1 c6 18. c4 Qc7 19. Bd3 Rab8 20. Bd2 Nbd7 21. Bf1 Rec8 22.
+Rc1 bxc4 23. dxc6 Bxc6 24. Bxc4 Qb7 25. Bc3 Nb6 26. Bd3 Nfd7 27. a4 Nc5 28. a5
+Bh6 29. axb6 Bxc1 30. Bc4 Bf4 31. Qxd6 Bb5 32. Nxe5 Ne6 33. Bxe6 Rxc3 34. Bxf7+
+Qxf7 35. Qxb8+ Kg7 36. b7 Bc6 37. Qd6 1-0

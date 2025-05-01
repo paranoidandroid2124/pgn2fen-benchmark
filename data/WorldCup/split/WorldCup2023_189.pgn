@@ -1,0 +1,29 @@
+[Event "FIDE World Cup 2023"]
+[Site "Baku AZE"]
+[Date "2023.08.01"]
+[Round "1.4"]
+[White "Blohberger,Felix"]
+[Black "Mastrovasilis,D"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2522"]
+[BlackElo "2587"]
+[ECO "B41"]
+[Opening "Sicilian"]
+[Variation "Kan, Maroczy bind (Reti variation)"]
+[WhiteFideId "1632051"]
+[BlackFideId "4202694"]
+[EventDate "2023.07.30"]
+[EventType "k.o."]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. c4 Nf6 6. Nc3 Bb4 7. Qd3 d6 8. Nc2
+Bxc3+ 9. Qxc3 O-O 10. Bd3 d5 11. exd5 exd5 12. O-O dxc4 13. Bxc4 Nc6 14. Ne3 Qd4
+15. Qxd4 Nxd4 16. Rd1 Rd8 17. b3 Be6 18. Bb2 Nc6 19. Bxf6 gxf6 20. Nd5 Bxd5 21.
+Bxd5 Nb4 22. Bxb7 Rxd1+ 23. Rxd1 Ra7 24. Rd7 Nxa2 25. Bc6 Rxd7 26. Bxd7 Kf8 27.
+Kf1 Ke7 28. Bf5 h6 29. Ke1 Kd6 30. Kd2 Kc5 31. Bd3 a5 32. Be4 Kd4 33. Bc6 Nc3
+34. h4 f5 35. g3 Ne4+ 36. Ke2 Nc5 37. Kf3 Nxb3 38. Kf4 Nc5 39. Kxf5 a4 40. Bxa4
+Nxa4 41. g4 Nc5 42. h5 Ne4 43. f3 Ng3+ 44. Kf6 Ke3 45. Kxf7 Kxf3 46. g5 hxg5 47.
+h6 g4 48. h7 Ne4 49. h8=Q g3 50. Qh5+ Kf4 51. Qh1 Nf2 52. Qg2 Ng4 53. Kg6 Ne3
+54. Qe2 Ng4 55. Kh5 Ne3 56. Kh4 Nf5+ 57. Kh3 Ne3 58. Qb2 g2 59. Qf2+ Ke4 60. Kg3
+Kd3 61. Kf3 Nf5 62. Kxg2 1-0

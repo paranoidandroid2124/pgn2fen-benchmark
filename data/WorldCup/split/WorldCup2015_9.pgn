@@ -1,0 +1,23 @@
+[Event "FIDE World Cup 2015"]
+[Site "Baku AZE"]
+[Date "2015.09.11"]
+[Round "1.1"]
+[White "Aronian, Levon"]
+[Black "Wiedenkeller, Michael"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "IM"]
+[WhiteElo "2784"]
+[BlackElo "2453"]
+[ECO "A18"]
+[Opening "English"]
+[Variation "Mikenas-Carls variation"]
+[WhiteFideId "13300474"]
+[BlackFideId "1700146"]
+[EventDate "2015.09.11"]
+
+1. c4 Nf6 2. Nc3 e6 3. e4 d5 4. cxd5 exd5 5. e5 Ne4 6. Nf3 Be7 7. d4 Bb4 8. Qc2
+Nc6 9. Bd3 Bg4 10. Be3 Bxf3 11. gxf3 Ng5 12. O-O-O Nxf3 13. Be2 Ng5 14. Bb5 O-O
+15. f4 Bxc3 16. fxg5 Nxd4 17. Bxd4 Qxg5+ 18. Kb1 Bxd4 19. Rxd4 Qxe5 20. Rdd1 c6
+21. Bd3 h6 22. Rhg1 Rae8 23. Qf2 b6 24. Rde1 Qd6 25. Ref1 Re6 26. h4 Qe7 27. a3
+Re8 28. Ka2 Re5 29. Qg3 Qf8 30. Bg6 Re3 31. Qg4 R8e7 32. Rf2 Kh8 33. Bb1 R3e5 1-0

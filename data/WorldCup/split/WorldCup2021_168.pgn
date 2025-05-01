@@ -1,0 +1,31 @@
+[Event "FIDE World Cup 2021"]
+[Site "Krasnaya Polyana RUS"]
+[Date "2021.07.14"]
+[Round "1.4"]
+[White "Zvjaginsev,V"]
+[Black "Haria,R"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "IM"]
+[WhiteElo "2608"]
+[BlackElo "2440"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Labourdonnais variation"]
+[WhiteFideId "4113403"]
+[BlackFideId "415820"]
+[EventDate "2021.07.12"]
+
+1. e4 e6 2. f4 d5 3. e5 c5 4. Nf3 Nc6 5. c3 Nh6 6. Na3 Nf5 7. Nc2 Be7 8. d4 cxd4
+9. cxd4 Qb6 10. Bd3 Nh4 11. Nxh4 Bxh4+ 12. Kf1 Be7 13. h4 Bd7 14. Rh3 Nb4 15.
+Nxb4 Qxb4 16. Be2 Ba4 17. b3 Bb5 18. a4 Bxe2+ 19. Kxe2 h5 20. Ba3 Qb6 21. Bxe7
+Kxe7 22. Rc3 Rac8 23. Rac1 Rc6 24. Rxc6 bxc6 25. Qd3 g6 26. Rc3 Rc8 27. Kd1 c5
+28. Qb5 c4 29. Qxb6 axb6 30. bxc4 dxc4 31. Kd2 b5 32. axb5 Rb8 33. Rxc4 Rxb5 34.
+Kd3 Rb2 35. Rc2 Rb3+ 36. Rc3 Rb2 37. g3 Ra2 38. Rb3 Rg2 39. Kc4 Rc2+ 40. Rc3 Rd2
+41. Ra3 Rc2+ 42. Kd3 Rg2 43. Ke4 Re2+ 44. Re3 Rd2 45. Rd3 Re2+ 46. Kf3 Ra2 47.
+d5 exd5 48. Rxd5 Ra3+ 49. Kf2 Ra2+ 50. Ke3 Rg2 51. Kf3 Ra2 52. Rd3 Ra4 53. Rb3
+Kf8 54. g4 hxg4+ 55. Kxg4 Ra1 56. Rg3 Kg7 57. h5 gxh5+ 58. Kxh5+ Kf8 59. Kg5 Kg7
+60. f5 Re1 61. f6+ Kf8 62. Ra3 Rg1+ 63. Kf4 Rf1+ 64. Kg3 Kg8 65. Ra7 Re1 66. Re7
+Re4 67. Kf3 Re1 68. Kf4 Rf1+ 69. Ke4 Re1+ 70. Kd5 Rd1+ 71. Kc6 Re1 72. Kd7 Ra1
+73. Re8+ Kh7 74. Ke7 Ra7+ 75. Kf8 Kg6 76. Kg8 Rb7 77. Kh8 Ra7 78. Rg8+ Kf5 79.
+Re8 Kg6 80. Kg8 Rb7 81. Kf8 Ra7 82. Rd8 Ra5 83. e6 fxe6 84. f7 Ra7 0-1

@@ -1,0 +1,27 @@
+[Event "FIDE World Cup 2023"]
+[Site "Baku AZE"]
+[Date "2023.08.11"]
+[Round "4.3"]
+[White "Nepomniachtchi,I"]
+[Black "Nihal,Sarin"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2779"]
+[BlackElo "2688"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[WhiteFideId "4168119"]
+[BlackFideId "25092340"]
+[EventDate "2023.07.30"]
+[EventType "k.o."]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. a4 Nf6 5. Nc3 a6 6. Be2 g6 7. O-O Bg7 8. d4
+cxd4 9. Nxd4 b6 10. Nc6 Qc7 11. Nb4 Bb7 12. Ncd5 Qd8 13. f3 O-O 14. Nxf6+ Nxf6
+15. Be3 Qc7 16. c4 e6 17. Rc1 Rfd8 18. Nd3 Nd7 19. Qb3 Nc5 20. Qa3 a5 21. Nf2
+Qe7 22. Rfd1 Bc6 23. b3 f5 24. Bd3 Be5 25. Qa2 Qh4 26. g3 Bxg3 27. hxg3 Qxg3+
+28. Kf1 fxe4 29. Bxc5 exd3 30. Bxb6 Rab8 31. Be3 Rf8 32. Rxd3 Rxf3 33. Qe2 Rbf8
+34. Ke1 h5 35. Bb6 Rxd3 36. Qxd3 Qg1+ 37. Qf1 Qg5 38. Rc3 h4 39. Be3 Qe5 40. Kd2
+Rf3 41. Qd3 Qg3 42. c5 Rxf2+ 43. Bxf2 Qxf2+ 44. Kc1 Qf4+ 45. Kb2 Be4 46. Qxd6
+Qf2+ 47. Ka3 Qe1 48. Qxe6+ Kh7 49. Qf7+ Kh8 50. Qf6+ Kh7 51. Rc4 h3 52. Qe5 Qg1 1-0

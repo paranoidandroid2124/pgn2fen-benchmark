@@ -1,0 +1,28 @@
+[Event "FIDE World Cup 2021"]
+[Site "Krasnaya Polyana RUS"]
+[Date "2021.07.15"]
+[Round "2.1"]
+[White "Bok,B"]
+[Black "Sevian,Samuel"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2624"]
+[BlackElo "2647"]
+[ECO "E37"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Noa variation, main line, 7.Qc2"]
+[WhiteFideId "1017063"]
+[BlackFideId "2040506"]
+[EventDate "2021.07.12"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. a3 Bxc3+ 6. Qxc3 Ne4 7. Qc2 c5 8.
+dxc5 Nc6 9. Nf3 Qa5+ 10. Bd2 Qxc5 11. e3 Nxd2 12. Nxd2 dxc4 13. Nxc4 Ne5 14. Rc1
+Nxc4 15. Bxc4 Qb6 16. O-O Bd7 17. Rfd1 Bc6 18. b4 O-O 19. Bd3 h6 20. Bh7+ Kh8
+21. Be4 Rac8 22. h3 a5 23. Bxc6 Rxc6 24. Qe4 axb4 25. axb4 Rfc8 26. Rxc6 Qxc6
+27. Qd3 b5 28. Qd7 Qxd7 29. Rxd7 Rc4 30. Rxf7 Rxb4 31. Re7 Re4 32. Kf1 Kh7 33.
+Ke2 Kg6 34. Kd3 Re5 35. e4 Kf6 36. Rc7 b4 37. Rb7 Ra5 38. Rxb4 Ra2 39. Ke3 Ra3+
+40. Ke2 Ra2+ 41. Kf3 Ra3+ 42. Kg4 Ra2 43. Kg3 g5 44. f3 h5 45. h4 gxh4+ 46. Kh2
+Ra5 47. Rb8 Rc5 48. Rf8+ Kg6 49. Kh3 Rc1 50. Kxh4 Rh1+ 51. Kg3 h4+ 52. Kf2 h3
+53. gxh3 Rxh3 54. e5 Kg5 55. Ke3 Rh6 56. f4+ Kh5 57. Ke4 Rh7 58. Re8 Rh6 59. f5
+exf5+ 60. Kxf5 Rh7 61. e6 Kh6 62. Kf6 Kh5 63. Rg8 Rh6+ 64. Kf5 1-0

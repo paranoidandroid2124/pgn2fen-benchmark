@@ -1,0 +1,29 @@
+[Event "FIDE World Cup 2023"]
+[Site "Baku AZE"]
+[Date "2023.08.11"]
+[Round "4.5"]
+[White "Maghsoodloo,Parham"]
+[Black "Duda,J"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2719"]
+[BlackElo "2732"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack"]
+[WhiteFideId "12539929"]
+[BlackFideId "1170546"]
+[EventDate "2023.07.30"]
+[EventType "k.o."]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bf5 7. O-O Be7 8. Re1
+O-O 9. Nbd2 Nd6 10. Nf1 c6 11. Bf4 Bxd3 12. Qxd3 Na6 13. h4 Nc7 14. Ng5 Bxg5 15.
+Bxg5 f6 16. Bf4 Qd7 17. Ne3 Rfe8 18. b3 Ne6 19. Bh2 Nf7 20. Rad1 Rad8 21. a4 Nh6
+22. c4 dxc4 23. Nxc4 Nf7 24. Re3 Nc7 25. Bxc7 Qxc7 26. d5 Rxe3 27. Qxe3 cxd5 28.
+Rxd5 g6 29. Qd4 Kg7 30. g3 Rxd5 31. Qxd5 Qe7 32. Kg2 h5 33. Na5 Nd8 34. Nc4 Nf7
+35. Kf3 Qb4 36. Ne3 Ne5+ 37. Ke2 Qe7 38. Qe4 Qd7 39. Nd5 Qd6 40. b4 a6 41. f4
+Nc6 42. b5 axb5 43. axb5 f5 44. Qd3 Ne7 45. Ne3 Qe6 46. Kd2 Kf7 47. Nc4 Kg7 48.
+Qd4+ Kh7 49. Kd3 Qe1 50. Qe5 Qxg3+ 51. Kd4 Qf2+ 52. Qe3 Qxh4 53. Qe5 Ng8 54. Nd6
+Qf2+ 55. Kd5 h4 56. Ke6 Qa2+ 57. Kd7 h3 58. Ke8 Qa8+ 59. Kf7 Nh6+ 60. Ke7 Qg8
+61. Ne8 Qf7+ 62. Kd8 Ng4 63. Qe1 h2 64. Nd6 Qf8+ 65. Kc7 Nf2 0-1

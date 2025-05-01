@@ -1,0 +1,30 @@
+[Event "FIDE World Cup 2021"]
+[Site "Krasnaya Polyana RUS"]
+[Date "2021.07.12"]
+[Round "1.1"]
+[White "Piorun,K"]
+[Black "Makarian,Rudik"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "IM"]
+[WhiteElo "2608"]
+[BlackElo "2465"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[WhiteFideId "1130420"]
+[BlackFideId "44105681"]
+[EventDate "2021.07.12"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 dxc4 5. Qa4+ c6 6. Qxc4 b5 7. Qd3 a6 8. Bg5
+Be7 9. e4 b4 10. Na4 O-O 11. Qc2 h6 12. Bxf6 Bxf6 13. e5 Be7 14. Bd3 a5 15. O-O
+Ba6 16. Bxa6 Rxa6 17. Nc5 Rb6 18. Rfd1 Rb5 19. Rac1 Qd5 20. b3 Rc8 21. Qe2 Qd8
+22. g3 Nd7 23. Na4 Rd5 24. Rd2 Bg5 25. Nxg5 Qxg5 26. Rc4 Qd8 27. Rdc2 Nb6 28.
+Nxb6 Qxb6 29. Qe3 Qb7 30. Rc5 Rcd8 31. Rxd5 Rxd5 32. Rc4 Qd7 33. h4 h5 34. Kg2
+g6 35. Qe4 Qc7 36. g4 hxg4 37. Qxg4 c5 38. h5 Qb7 39. Qe4 cxd4 40. hxg6 f5 41.
+Qh4 Rc5+ 42. f3 Rxc4 43. Qd8+ Kg7 44. bxc4 a4 45. c5 Kxg6 46. Qf6+ Kh7 47. Qxe6
+Qg7+ 48. Kf2 b3 49. axb3 a3 50. Qxf5+ Kg8 51. Qe6+ Kh7 52. b4 Qa7 53. Qf5+ Kg7
+54. Qf6+ Kh7 55. e6 a2 56. e7 a1=Q 57. Qf7+ Kh6 58. Qf6+ Kh7 59. Qf7+ Kh6 60.
+Qe6+ Kg7 61. Qe5+ Kh7 62. e8=Q Q7a2+ 63. Qe2 Qxe2+ 64. Qxe2 Qc3 65. c6 d3 66.
+Qe7+ Kg6 67. c7 Qd4+ 68. Kg2 Qb2+ 69. Kg3 Qc1 70. Qd6+ Kh5 71. Qd5+ Kh6 72. Qe6+
+Kg5 73. Qg8+ Kf6 74. Qd8+ Ke5 75. c8=Q Qf4+ 76. Kg2 Qd2+ 77. Kh3 1-0

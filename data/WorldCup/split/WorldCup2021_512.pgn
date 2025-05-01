@@ -1,0 +1,23 @@
+[Event "FIDE World Cup 2021"]
+[Site "Krasnaya Polyana RUS"]
+[Date "2021.07.24"]
+[Round "4.3"]
+[White "Artemiev,V"]
+[Black "Karjakin,Sergey"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2704"]
+[BlackElo "2757"]
+[ECO "A07"]
+[Opening "Reti"]
+[Variation "King's Indian attack"]
+[WhiteFideId "24101605"]
+[BlackFideId "14109603"]
+[EventDate "2021.07.12"]
+[EventType "k.o."]
+
+1. Nf3 d5 2. g3 g6 3. Bg2 Bg7 4. O-O e5 5. d3 Nc6 6. Nc3 Nge7 7. e4 d4 8. Ne2
+O-O 9. c3 a5 10. Qc2 a4 11. cxd4 exd4 12. Bd2 h6 13. b4 axb3 14. axb3 Rxa1 15.
+Rxa1 Qd6 16. Bf4 Qd8 17. Ra8 g5 18. Bc1 Nb4 19. Qc4 c5 20. Ba3 g4 21. Nfxd4 Nxd3
+22. Qxd3 cxd4 23. e5 Bxe5 24. Qe4 Qc7 25. Bxe7 Qxe7 26. Rxc8 1-0

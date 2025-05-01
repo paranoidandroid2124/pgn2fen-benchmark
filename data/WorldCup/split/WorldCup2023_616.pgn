@@ -1,0 +1,30 @@
+[Event "FIDE World Cup 2023"]
+[Site "Baku AZE"]
+[Date "2023.08.11"]
+[Round "4.6"]
+[White "Carlsen,M"]
+[Black "Keymer,Vincent"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2835"]
+[BlackElo "2690"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Anderssen variation"]
+[WhiteFideId "1503014"]
+[BlackFideId "12940690"]
+[EventDate "2023.07.30"]
+[EventType "k.o."]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 Bc5 6. c3 b5 7. Bb3 d6 8. O-O h6
+9. Re1 O-O 10. Nbd2 Bb6 11. Nf1 Ne7 12. Ng3 c5 13. a4 Rb8 14. h3 Ng6 15. axb5
+axb5 16. d4 Qc7 17. Be3 Re8 18. Qd2 exd4 19. cxd4 Nxe4 20. Nxe4 Rxe4 21. dxc5
+dxc5 22. Bc2 Rb4 23. Bxg6 fxg6 24. Bxh6 Bf5 25. Bg5 Qd7 26. Qc3 Re4 27. Ne5 Qe6
+28. Rxe4 Bxe4 29. Re1 Bb7 30. Nf3 Qc4 31. Qe5 Rf8 32. Qd6 Bxf3 33. gxf3 Ba5 34.
+Re4 Qb3 35. Be3 Bb4 36. Kg2 Qf7 37. Rf4 Qe8 38. Rxf8+ Qxf8 39. Qxg6 Qf7 40. Qg5
+Qd7 41. Bxc5 Bxc5 42. Qxc5 Qd3 43. b4 Qg6+ 44. Kh2 Qd3 45. Qc8+ Kh7 46. Qg4 Qd6+
+47. Kg2 Qb6 48. h4 Qb8 49. h5 Kh8 50. Qg5 Qe8 51. h6 gxh6 52. Qxh6+ Kg8 53. Qg5+
+Kh8 54. Qf6+ Kg8 55. Kg3 Qe2 56. Qg6+ Kf8 57. Qf5+ Kg7 58. Qe4 Qf1 59. f4 Kf6
+60. Qd4+ Kf7 61. f5 Qg1+ 62. Kf4 Qh2+ 63. Ke4 Qh4+ 64. Kd5 Qd8+ 65. Kc5 Qc8+ 66.
+Kxb5 Qxf5+ 67. Qc5 Qd3+ 68. Qc4+ 1-0

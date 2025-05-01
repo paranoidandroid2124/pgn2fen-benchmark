@@ -1,0 +1,21 @@
+[Event "FIDE World Cup 2015"]
+[Site "Baku AZE"]
+[Date "2015.09.13"]
+[Round "1.8"]
+[White "Atabayev, Yusup"]
+[Black "Grischuk, Alexander"]
+[Result "0-1"]
+[WhiteTitle "IM"]
+[BlackTitle "GM"]
+[WhiteElo "2428"]
+[BlackElo "2774"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[WhiteFideId "14001128"]
+[BlackFideId "4126025"]
+[EventDate "2015.09.11"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Qc7 7. Nf3 e6 8. Bd3
+Nbd7 9. Qe2 Nc5 10. O-O Be7 11. Kh1 O-O 12. e5 Nd5 13. exd6 Bxd6 14. Bxh7+ Kxh7
+15. Ng5+ Kg8 16. f5 f6 17. fxe6 Nxc3 18. Qh5 fxg5 19. Rxf8+ Bxf8 0-1

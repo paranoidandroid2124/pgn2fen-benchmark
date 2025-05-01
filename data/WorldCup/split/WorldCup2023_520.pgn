@@ -1,0 +1,30 @@
+[Event "FIDE World Cup 2023"]
+[Site "Baku AZE"]
+[Date "2023.08.07"]
+[Round "3.3"]
+[White "Vitiugov,N"]
+[Black "Berkes,F"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2720"]
+[BlackElo "2615"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[WhiteFideId "4152956"]
+[BlackFideId "718572"]
+[EventDate "2023.07.30"]
+[EventType "k.o."]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 Bd7 7. b4 cxd4 8. cxd4 Rc8
+9. Bb2 Nge7 10. Nc3 Na5 11. Na4 Qc6 12. Nc5 Nc4 13. Bc1 b6 14. Nxd7 Qxd7 15. Bd3
+b5 16. h4 Nc6 17. h5 Be7 18. Rh3 f5 19. Bb1 a5 20. bxa5 Qa7 21. Kf1 Bd8 22. Ra2
+Bxa5 23. Qd3 O-O 24. Re2 b4 25. axb4 Nxb4 26. Qd1 Bb6 27. Ng5 Rc6 28. g4 Qa1 29.
+Rb3 Qa4 30. Rd3 Qxd1+ 31. Rxd1 h6 32. Nh3 fxg4 33. Nf4 Ra8 34. Ng6 Kf7 35. Be3
+Ra1 36. Nh8+ Ke7 37. Ng6+ Kd8 38. Bd2 Nxd2+ 39. Rexd2 Rc4 40. Nf4 Ke7 41. Ng6+
+Kd7 42. Nf8+ Ke7 43. Ng6+ Kf7 44. Nf4 Rxd4 45. Rxd4 Bxd4 46. Rxd4 Rxb1+ 47. Kg2
+Nc6 48. Ra4 Rb4 49. Rxb4 Nxb4 50. Kg3 Nc6 51. Nd3 Nd4 52. Kxg4 Ke7 53. Nc5 Nf5
+54. f4 Nd4 55. Kg3 Kf7 56. Kg4 g6 57. Nb7 Nf5 58. Nc5 Ng7 59. hxg6+ Kxg6 60. Nb7
+h5+ 61. Kf3 Nf5 62. Nd8 Nd4+ 63. Ke3 h4 64. Kxd4 h3 65. Nxe6 h2 66. Kxd5 h1=Q+
+67. Kd6 0-1

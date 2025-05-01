@@ -1,0 +1,23 @@
+[Event "FIDE World Cup 2021"]
+[Site "Krasnaya Polyana RUS"]
+[Date "2021.07.13"]
+[Round "1.2"]
+[White "Subramaniam,Su"]
+[Black "Sevian,Samuel"]
+[Result "0-1"]
+[WhiteTitle "FM"]
+[BlackTitle "GM"]
+[WhiteElo "2155"]
+[BlackElo "2647"]
+[ECO "E68"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation, 8.e4"]
+[WhiteFideId "5702720"]
+[BlackFideId "2040506"]
+[EventDate "2021.07.12"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nf3 d6 6. O-O Nbd7 7. Nc3 e5 8. e4
+exd4 9. Nxd4 Re8 10. h3 Nc5 11. Re1 Bd7 12. Bf4 h6 13. Nb3 Ne6 14. Be3 Ng5 15.
+e5 Rxe5 16. f4 Nxh3+ 17. Bxh3 Rxe3 18. Rxe3 Bxh3 19. Qf3 c6 20. Rae1 a5 21. Na4
+Bg4 22. Qg2 d5 23. c5 Ne4 24. Kh2 h5 25. Nd2 Nf6 26. Nb6 Rb8 27. Nf3 d4 28. Ra3
+Bf8 29. Rxa5 Nd5 30. Ne5 Nxb6 31. b4 Nd5 32. Qd2 Ne3 33. Ra3 Bf5 0-1

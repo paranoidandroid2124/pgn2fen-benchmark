@@ -1,0 +1,20 @@
+[Event "FIDE World Cup 2013"]
+[Site "Tromso NOR"]
+[Date "2013.08.16"]
+[Round "2.8"]
+[White "Dubov, Daniil"]
+[Black "Ponomariov, Ruslan"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2624"]
+[BlackElo "2756"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[WhiteFideId "24126055"]
+[BlackFideId "14103320"]
+[EventDate "2013.08.11"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 d5 7. c5 Ne4 8. Bd2
+Bxc3 9. Nxc3 O-O 10. Bd3 Nc6 11. O-O 1/2-1/2

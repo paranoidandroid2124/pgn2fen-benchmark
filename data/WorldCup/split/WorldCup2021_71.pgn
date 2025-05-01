@@ -1,0 +1,24 @@
+[Event "FIDE World Cup 2021"]
+[Site "Krasnaya Polyana RUS"]
+[Date "2021.07.12"]
+[Round "1.1"]
+[White "Kulaots,K"]
+[Black "Martinovic,Sa"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2548"]
+[BlackElo "2548"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Steinitz, Boleslavsky variation"]
+[WhiteFideId "4500261"]
+[BlackFideId "14509792"]
+[EventDate "2021.07.12"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 cxd4 8. Nxd4
+Qb6 9. Qd2 Qxb2 10. Rb1 Qa3 11. Bb5 Nxd4 12. Bxd4 a6 13. Bxd7+ Bxd7 14. Rb3 Qe7
+15. Rxb7 Qh4+ 16. Bf2 Qd8 17. Bb6 Qc8 18. Rc7 Qd8 19. Qd4 Ba3 20. Nb1 Be7 21. c4
+O-O 22. cxd5 exd5 23. Nc3 Rc8 24. Rxc8 Qxc8 25. O-O Qc6 26. Nxd5 Ba3 27. Ne3 Rb8
+28. Ba7 Rb7 29. Qd3 Qa4 30. Bd4 Bb5 31. Qc3 Bf8 32. Rd1 Rd7 33. Rd2 h6 34. Nf5
+Bb4 35. Nxh6+ gxh6 36. Qc8+ Bf8 37. Bc5 Qxf4 38. Qxf8+ Kh7 0-1

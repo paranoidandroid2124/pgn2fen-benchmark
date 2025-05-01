@@ -1,0 +1,21 @@
+[Event "FIDE World Cup 2021"]
+[Site "Krasnaya Polyana RUS"]
+[Date "2021.07.13"]
+[Round "1.2"]
+[White "Onischuk,Al"]
+[Black "Ali,Ak"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "FM"]
+[WhiteElo "2649"]
+[BlackElo "2274"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "4.g3 Bb7"]
+[WhiteFideId "14101025"]
+[BlackFideId "4800575"]
+[EventDate "2021.07.12"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. g3 Bb7 5. Bg2 c5 6. d5 exd5 7. cxd5 Bxd5 8. Nc3
+Bc6 9. O-O Be7 10. e4 Nxe4 11. Nd5 d6 12. Re1 f5 13. Ng5 Bxg5 14. Bxe4 fxe4 15.
+Rxe4+ Kf8 16. Bxg5 Qxg5 17. Qf3+ Kg8 18. h4 Qd8 19. Re7 Qf8 20. Qb3 1-0

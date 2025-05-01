@@ -1,0 +1,28 @@
+[Event "FIDE World Cup 2023"]
+[Site "Baku AZE"]
+[Date "2023.07.30"]
+[Round "1.1"]
+[White "Tissir,M"]
+[Black "Kuzubov,Y"]
+[Result "0-1"]
+[WhiteTitle "IM"]
+[BlackTitle "GM"]
+[WhiteElo "2347"]
+[BlackElo "2628"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Marshall variation"]
+[WhiteFideId "9000240"]
+[BlackFideId "14112906"]
+[EventDate "2023.07.30"]
+[EventType "k.o."]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bd6 7. O-O O-O 8. Re1
+Bf5 9. c4 c6 10. Nc3 Nxc3 11. bxc3 Bxd3 12. Qxd3 dxc4 13. Qxc4 Nd7 14. Bg5 Qc7
+15. Be7 Nb6 16. Qe2 Bxe7 17. Qxe7 Qxe7 18. Rxe7 Rab8 19. Rb1 Rfe8 20. Rc7 Rec8
+21. Re7 Kf8 22. Re5 Nc4 23. Rh5 Kg8 24. Rc5 Nd6 25. Re5 f6 26. Re6 Kf7 27. Ree1
+Re8 28. Rec1 Re2 29. a4 Nc4 30. Rb4 Na5 31. h4 Rbe8 32. d5 c5 33. Rf4 h6 34. Rd1
+R2e4 35. Rxe4 Rxe4 36. Ra1 Ke7 37. h5 Kd6 38. g3 Kxd5 39. Rd1+ Ke6 40. Rd8 Rxa4
+41. Rg8 Kf7 42. Rc8 Re4 43. Nh4 Re8 44. Rc7+ Re7 45. Rc8 Nc6 46. f4 Ke6 47. Ng6
+Rf7 48. g4 Kd5 49. Kg2 Rd7 50. Re8 a5 51. Kf3 a4 52. Ra8 b5 53. Nh4 Ra7 54. Rc8
+a3 55. Nf5 a2 56. c4+ Kxc4 57. Ne3+ Kb3 0-1

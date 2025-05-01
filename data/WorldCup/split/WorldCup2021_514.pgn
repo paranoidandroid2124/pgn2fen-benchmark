@@ -1,0 +1,26 @@
+[Event "FIDE World Cup 2021"]
+[Site "Krasnaya Polyana RUS"]
+[Date "2021.07.24"]
+[Round "4.3"]
+[White "Svidler,P"]
+[Black "Vitiugov,N"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2714"]
+[BlackElo "2724"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[WhiteFideId "4102142"]
+[BlackFideId "4152956"]
+[EventDate "2021.07.12"]
+[EventType "k.o."]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. d4 cxd4 5. Nxd4 Nf6 6. O-O a6 7. Ba4 e6 8. c4
+Be7 9. Nc3 O-O 10. Qe2 Qc7 11. f4 Nb6 12. Bb3 e5 13. Nf5 Bxf5 14. exf5 Rfe8 15.
+g4 d5 16. cxd5 Nfxd5 17. Bxd5 Nxd5 18. Nxd5 Qc5+ 19. Ne3 exf4 20. Rxf4 Bg5 21.
+Rf3 Rad8 22. Kf1 Qd4 23. a4 Qe4 24. Ra3 Rc8 25. Rc3 Rxc3 26. bxc3 Qxa4 27. Kg2
+Qe4 28. Qf2 a5 29. h4 Bf6 30. Qc2 Qc6 31. g5 Bxc3 32. Nd1 Bb4 33. Qxc6 bxc6 34.
+Rd3 Kf8 35. Kf3 Re1 36. Bb2 Rf1+ 37. Kg4 Rg1+ 38. Kh5 Kg8 39. Rd8+ Bf8 40. Bxg7
+Kxg7 41. f6+ Kg8 42. Ne3 h6 43. Nf5 hxg5 44. Ne7+ Kh7 45. Rxf8 1-0
