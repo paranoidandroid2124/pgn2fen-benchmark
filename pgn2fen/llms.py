@@ -95,10 +95,9 @@ def get_openai_fen(
     return str(response.choices[0].message.content)
 
 def get_huggingface_fen(pgn_text: str,
-                        model_name: str) -> str:
+                        model_name: str = 'Qwen/Qwen3-4B) -> str:
     generator = pipeline('text-generation', model=model_Name, device=-1)
     prompt = PROMPT_TEMPLATE.format(pgn_text=pgn_text)
-
     raw_response = generator(prompt, max_new_tokens=1000, num_return_sequences=1)
     response = raw_response[0]['generated_text']
             
