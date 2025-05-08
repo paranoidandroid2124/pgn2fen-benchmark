@@ -4,6 +4,7 @@ import backoff
 import openai
 from google import genai
 from google.genai import types
+from transformers import AutoModelForCausalLM, AutoTokenizer, pipeline
 
 from pgn2fen.models import Provider
 
@@ -93,6 +94,15 @@ def get_openai_fen(
         raise RuntimeError(f"Error during API call: {e}") from e
     return str(response.choices[0].message.content)
 
+def get_huggingface_fen(pgn_text: str,
+                        model_name: str) -> str:
+    generator = pipeline('text-generation', model=model_Name, device=-1)
+    prompt = PROMPT_TEMPLATE.format(pgn_text=pgn_text)
+
+    raw_response = generator(prompt, max_new_tokens=1000, num_return_sequences=1)
+    response = raw_response[0]['generated_text']
+            
+    return str(response.text).strip()
 
 def get_fen(
     pgn_text: str,
@@ -126,6 +136,10 @@ def get_fen(
             get_openai_fen(
                 pgn_text, model=model, api_key=api_key, base_url="https://api.deepseek.com/v1"
             )
+        )
+    elif provider == Provider.HUGGINGFACE:
+        return get_huggingface_fen(
+            pgn_text, model_name
         )
     else:
         raise ValueError(f"Unsupported provider: {provider}")
