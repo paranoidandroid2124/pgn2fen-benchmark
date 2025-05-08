@@ -105,8 +105,8 @@ def get_huggingface_fen(pgn_text: str,
 
 def get_fen(
     pgn_text: str,
-    provider: Provider = Provider.GOOGLE,
-    model: str = "gemini-2.0-flash-001",
+    provider: Provider = Provider.HUGGINGFACE,
+    model: str = "Qwen/Qwen3-4B",
     thinking_budget: int | None = None,
 ) -> str:
     """
@@ -138,7 +138,7 @@ def get_fen(
         )
     elif provider == Provider.HUGGINGFACE:
         return get_huggingface_fen(
-            pgn_text, model_name
+            pgn_text, model
         )
     else:
         raise ValueError(f"Unsupported provider: {provider}")
